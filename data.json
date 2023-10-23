@@ -1,0 +1,55 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name":"Random Quote Generator",
+            "description":"An app that displays random famous fashion quotes each time a button is clicked.",
+            "technologies": ["HTMl", "CSS", "Javascript"],
+            "live_link": "https://chutech2023.github.io/random-quote-generator/",
+            "github_link": "https://github.com/ChuTech2023/random-quote-generator",
+            "image_urls": [
+                ""
+            ]
+        },
+
+        {
+            "id": 2,
+            "project_name":"Data Paginationa and Filtering",
+            "description":"Using pagination to enhance the usability of a web page. Filter a file that contains information for 42 students, including name, email, and picture.",
+            "technologies": ["HTMl", "CSS", "Javascript"],
+            "live_link": "https://github.com/ChuTech2023/data-pagination-and-filtering-v1/",
+            "github_link": "https://github.com/ChuTech2023/data-pagination-and-filtering-v1",
+            "image_urls": []
+        }
+,
+        {
+            "id": 3,
+            "project_name":"Interactive Form",
+            "description":"An interactive registration form for a fictional Full Stack conference.",
+            "technologies": ["HTMl", "CSS", "Javascript"],
+            "live_link": "https://github.com/ChuTech2023/interactive-form-v3/",
+            "github_link": "https://github.com/ChuTech2023/interactive-form-v3",
+            "image_urls": []
+        },
+
+        {
+            "id": 4,
+            "project_name":"Phrase Hunter",
+            "description":"A browser-based, word guessing game, using JavaScript and Object-Oriented Programming to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+            "technologies": ["HTMl", "CSS", "Javascript"],
+            "live_link": "https://chutech2023.github.io/oop_game-v2/",
+            "github_link": "https://chutech2023.github.io/oop_game-v2/",
+            "image_urls": []
+        },
+
+        {
+            "id": 5,
+            "project_name":"Student Files ",
+            "description":"An app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. This app is a smart way for employees to share contact information with each other.",
+            "technologies": ["HTMl", "CSS", "Javascript"],
+            "live_link": "https://chutech2023.github.io/student-files/",
+            "github_link": "https://github.com/ChuTech2023/student-files",
+            "image_urls": []
+        }
+    ]
+}
