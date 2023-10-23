@@ -8,8 +8,8 @@
             "live_link": "https://chutech2023.github.io/random-quote-generator/",
             "github_link": "https://github.com/ChuTech2023/random-quote-generator",
             "image_urls": [
-                "/images/random_quote1.png",
-                "/images/random_quote2.png"
+                "/static/images/random_quote1.png",
+                "/static/images/random_quote2.png"
             ]
         },
 
@@ -21,9 +21,9 @@
             "live_link": "https://github.com/ChuTech2023/data-pagination-and-filtering-v1/",
             "github_link": "https://github.com/ChuTech2023/data-pagination-and-filtering-v1",
             "image_urls": [
-                "/images/pagation_main.png",
-                "/images/pagation1.png",
-                "/images/pagation2.png"
+                "/static/images/pagation_main.png",
+                "/static/images/pagation1.png",
+                "/static/images/pagation2.png"
             ]
         }
 ,
@@ -35,8 +35,8 @@
             "live_link": "https://github.com/ChuTech2023/interactive-form-v3/",
             "github_link": "https://github.com/ChuTech2023/interactive-form-v3",
             "image_urls": [
-                "/images/interactive_form1.png",
-                "/images/interactive_form2.png"
+                "/static/images/interactive_form1.png",
+                "/static/images/interactive_form2.png"
             ]
         },
 
@@ -48,8 +48,8 @@
             "live_link": "https://chutech2023.github.io/oop_game-v2/",
             "github_link": "https://chutech2023.github.io/oop_game-v2/",
             "image_urls": [
-                "/images/phrase_hunter1.png",
-                "/images/phrase_hunter2.png"
+                "/static/images/phrase_hunter1.png",
+                "/static/images/phrase_hunter2.png"
             ]
         },
 
@@ -61,8 +61,8 @@
             "live_link": "https://chutech2023.github.io/student-files/",
             "github_link": "https://github.com/ChuTech2023/student-files",
             "image_urls": [
-                "/images/emplyee_directory1.png",
-                "/images/emplyee_directory2.png"
+                "/static/images/emplyee_directory1.png",
+                "/static/images/emplyee_directory2.png"
             ]
         }
     ]
