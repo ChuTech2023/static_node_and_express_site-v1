@@ -32,7 +32,7 @@
             "project_name":"Interactive Form",
             "description":"An interactive registration form for a fictional Full Stack conference.",
             "technologies": ["HTMl", "CSS", "Javascript"],
-            "live_link": "https://github.com/ChuTech2023/interactive-form-v3/",
+            "live_link": "https://chutech2023.github.io/interactive-form-v3/",
             "github_link": "https://github.com/ChuTech2023/interactive-form-v3",
             "image_urls": [
                 "/static/images/interactive_form1.png",
@@ -46,7 +46,7 @@
             "description":"A browser-based, word guessing game, using JavaScript and Object-Oriented Programming to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
             "technologies": ["HTMl", "CSS", "Javascript"],
             "live_link": "https://chutech2023.github.io/oop_game-v2/",
-            "github_link": "https://chutech2023.github.io/oop_game-v2/",
+            "github_link": "https://github.com/ChuTech2023/oop_game-v2",
             "image_urls": [
                 "/static/images/phrase_hunter1.png",
                 "/static/images/phrase_hunter2.png"
