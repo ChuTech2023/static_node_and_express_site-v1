@@ -300,6 +300,26 @@ nav a span {
   border: 1px solid transparent;
 }
 
+/* Error page */
+.error {
+  padding: 20px;
+}
+
+.error h1 {
+  color: tomato;
+  margin: 10px 0;
+}
+
+.error p {
+  font-size: 22px;
+}
+
+.error a {
+  padding: 10px 30px;
+  text-decoration: none;
+  background-color: #000;
+  color: white;
+}
 
 /* 
   Tablet layout styles 

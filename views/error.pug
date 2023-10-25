@@ -1,0 +1,7 @@
+extends layout.pug 
+
+block content 
+ .error
+    h1= error.status 
+    p= error.message
+    a(href='/') Go Home!

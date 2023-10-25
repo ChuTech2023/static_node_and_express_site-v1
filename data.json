@@ -18,12 +18,12 @@
             "project_name":"Data Paginationa and Filtering",
             "description":"Using pagination to enhance the usability of a web page. Filter a file that contains information for 42 students, including name, email, and picture.",
             "technologies": ["HTMl", "CSS", "Javascript"],
-            "live_link": "https://github.com/ChuTech2023/data-pagination-and-filtering-v1/",
+            "live_link": "https://chutech2023.github.io/data-pagination-and-filtering-v1/",
             "github_link": "https://github.com/ChuTech2023/data-pagination-and-filtering-v1",
             "image_urls": [
-                "/static/images/pagation_main.png",
-                "/static/images/pagation1.png",
-                "/static/images/pagation2.png"
+                "/static/images/pagnation_main.png",
+                "/static/images/pagnation1.png",
+                "/static/images/pagnation2.png"
             ]
         }
 ,
@@ -61,8 +61,8 @@
             "live_link": "https://chutech2023.github.io/student-files/",
             "github_link": "https://github.com/ChuTech2023/student-files",
             "image_urls": [
-                "/static/images/emplyee_directory1.png",
-                "/static/images/emplyee_directory2.png"
+                "/static/images/employee_directory1.png",
+                "/static/images/employee_directory2.png"
             ]
         }
     ]

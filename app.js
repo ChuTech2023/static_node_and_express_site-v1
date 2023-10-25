@@ -12,9 +12,7 @@ app.use("/static", express.static("public"));
 // route to homepage
 
 app.get("/", (req, res) => {
-    res.render("index" )
-    res.locals = data.projects;
-    console.log(res.locals);
+    res.render("index", {projects: data.projects} )
 });
 
 //route to about page
@@ -23,7 +21,7 @@ app.get("/about", (req, res) => {
     res.render("about" ) 
 });
 
-//
+//route to project page
 
 app.get("/projects/:id", (req, res) =>{
     const id = req.params.id;
@@ -43,9 +41,15 @@ app.use((req, res, next)  => {
 
 //Global error handler
 
-app.use((error, req, res, next) => {
-   
-})
+app.use((err, req, res, next) => {
+  const error =  {
+    status: err.status || 500,
+    message: err.status === 404 ? err.message: 'Internal server error'
+  }
+  console.log(`${error.status} - ${error.message}`)
+  res.status(error.status)
+  res.render("error", {error})
+});
 
 
 
